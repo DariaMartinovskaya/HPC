@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp CMakeFiles/kmeans_omp_target.dir/kmeans_omp_target.cpp.o CMakeFiles/kmeans_omp_target.dir/kmeans_utils.cpp.o -o kmeans_omp_target  /usr/lib/gcc/x86_64-linux-gnu/12/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 

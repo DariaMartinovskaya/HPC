@@ -1,0 +1,5 @@
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/hpc/build/CMakeFiles/kmeans.dir
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/hpc/build/CMakeFiles/kmeans_openmp.dir
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/hpc/build/CMakeFiles/kmeans_omp_target.dir
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/hpc/build/CMakeFiles/edit_cache.dir
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/hpc/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# Ignore large files related to mnist data
+data/mnist/emnist-balanced-mapping.txt
+data/mnist/emnist-balanced-test-images-idx3-ubyte
+data/mnist/emnist-balanced-test-images-idx3-ubyte.gz
+data/mnist/emnist-balanced-test-labels-idx1-ubyte
+data/mnist/emnist-balanced-test-labels-idx1-ubyte.gz
+data/mnist/emnist-balanced-train-images-idx3-ubyte
+data/mnist/emnist-balanced-train-images-idx3-ubyte.gz
+data/mnist/emnist-balanced-train-labels-idx1-ubyte
+data/mnist/emnist-balanced-train-labels-idx1-ubyte 2
+data/mnist/emnist-balanced-train-labels-idx1-ubyte.gz
+data/mnist/mnist_train.csv
+data/mnist/emnist-balanced-train-labels-idx1-ubyte 2
