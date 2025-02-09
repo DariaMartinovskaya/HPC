@@ -22,5 +22,5 @@ docs - in this folder are kept the following files:
 
 build - the folder where the applications are built using the CMake compilation control system.
 
-## Individual Assignment Tasks
+## Individual Assignment Task
 Anja Tanović and Vuk Vranjković. “Implementation of parallel K-means algorithm for image classifica- tion using OpenMP and MPI libraries”. In: 2024 Zooming Innovation in Consumer Technologies Conference (ZINC). 2024, pp. 54–59. doi: 10.1109/ZINC61849.2024.10579351.
